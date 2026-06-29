@@ -1,0 +1,6 @@
+# Core (the skill markdown needs no Python deps).
+# Knowledge-base refresh tooling:
+crawl4ai>=0.3.0     # async web crawler for tools/knowledge_updater.py (optional but recommended)
+
+# Testing:
+pytest>=7.0
